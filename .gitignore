@@ -1,5 +1,5 @@
 /.settings
-/bin
+bin/*
 /proguard_cache
 /proguard_cache_conf
 /target
